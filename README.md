@@ -2,12 +2,7 @@
 
 1. Python
 1. SQLite
-
-# Features
-
-1. Update Inventory
-1. Generate Bills
-1. Show sales
+1. Next.js
 
 # Database
 
@@ -22,7 +17,8 @@
 # Libraries
 
 1. sqlite3
-1. PyQt5
-1. PySide2
-
-# References
+1. Flask
+1. SQLAlchemy
+1. Next.js
+1. Axios
+1. Mantine
